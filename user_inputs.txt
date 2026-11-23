@@ -1,0 +1,11 @@
+Transformational AI: Analyzing Ecommerce Large Datasets for Machine Learning
+Completed by: Victor Carvalho
+—————————————-
+
+Question 1: The dataset shows some ratings given by users,the rating is numeric, the other a text of how many stars was the user gave as feedback. It has also at least 3 columns related to IDs e one with timestamp. We see the data types float64, object, int64 and bool.
+Question 2: This format somehow helps to visualize the data. It's not a good format to see the data aggregated, but it may be better to read the content of some column items. It matches my expectation of a "head" tool. It's easy to check the first few lines with it.
+Question 3: We've set some display settings to customize the way we want to see the data output text. We added the number of items to print param, set as the value of 10.
+Question 4: This dataset contains a lot more of details like item number, details, price, image link, video, brand (store), category, and a json of "details".
+Question 5: The .info() method is better, it provides a concise report with either columns and data types information. It also show non-null registers count, which is helpful.
+Question 6: Products of lower price have a lot more frequency of rating.
+Question 7: I couldn't notice too much, maybe I see an abundance of points in the 4.5 rating. 
