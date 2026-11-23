@@ -12,7 +12,7 @@ python -m pip install -r requirements.txt
 jupyter notebook
 ```
 
-Open `reviews_analysis.ipynb` in Jupyter and run the cells.
+Open `Udacity - PCEP Project.ipynb` in Jupyter and run the cells.
 
 
 
